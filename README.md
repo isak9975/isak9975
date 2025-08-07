@@ -46,9 +46,10 @@
 <img src="./public/homeproject.jpg" alt="개인프로젝트" height="400"/>
 
 **개인적인 학습과 실험을 위한 프로젝트**
-- 🛠️ **Tech Stack**: React, Spring Boot, MySQL
+- 🛠️ **Tech Stack**: React, Spring Boot, MySQL, AWS-RDS, AWS-EC2, AWS-S3
 - ⚡ **Features**: 사용자 인증, CRUD 기능, REST API
 - 📅 **Status**: 완료
+- - - 📅 **Link**: <a href='http://homeproject-back.s3-website.ap-northeast-2.amazonaws.com/'>HomeProject</a>
 
 </td>
 <td width="50%">
@@ -58,9 +59,10 @@
 
 
 **팀원들과 처음 작업한 웹 페이지**
-- 🛠️ **Tech Stack**: React, Node.js, MySQL
-- 👨‍💻 **My Role**: Frontend 개발 및 UI/UX 디자인
+- 🛠️ **Tech Stack**: React, Spring Boot, MySQL, AWS-RDS, AWS-EC2, AWS-S3 
+- 👨‍💻 **My Role**: 동물 상세페이지, 찾고있어요 페이지 개발 및 프로젝트 배포
 - 📅 **Status**: 완료
+- 📅 **Link**: <a href='http://teamproject-uka.s3-website.ap-northeast-2.amazonaws.com/'>TeamProject-UKA</a>
 
 </td>
 </tr>
@@ -71,9 +73,10 @@
 <img src="./public/teamproject-omr.jpg" alt="팀프로젝트2" width="200" height="300"/>
 
 **팀원들과 협업하여 진행한 어플리케이션**
-- 🛠️ **Tech Stack**: React Native, Spring Boot
-- 👨‍💻 **My Role**: 모바일 앱 개발 및 백엔드 API 연동
-- 📅 **Status**: 진행 중
+- 🛠️ **Tech Stack**: React Native, Spring Boot, MySQL, AWS-RDS, AWS-EC2
+- 👨‍💻 **My Role**: 고객센터 게시판 개발 및 리뷰 보여주기 페이지 개발.
+- 📅 **Status**: 완료
+- 📅 **Link**: <a href='http://teamproject-uka.s3-website.ap-northeast-2.amazonaws.com/'>TeamProject-UKA</a>
 
 </td>
 <td width="50%">
@@ -82,9 +85,10 @@
 <img src="./public/github.jpg" alt="깃 페이지"  height="400"/>
 
 **GitHub Pages를 활용한 포트폴리오 웹사이트**
-- 🛠️ **Tech Stack**: HTML5, CSS3, JavaScript
+- 🛠️ **Tech Stack**: Vite, TypeScript, Github Page
 - ⚡ **Features**: 개인 포트폴리오 및 프로젝트 소개
 - 📅 **Status**: 완료
+- - 📅 **Link**: <a href='https://isak9975.github.io/'>isak9975.github.io</a>
 
 </td>
 </tr>
