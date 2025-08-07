@@ -76,7 +76,6 @@
 - 🛠️ **Tech Stack**: React Native, Spring Boot, MySQL, AWS-RDS, AWS-EC2
 - 👨‍💻 **My Role**: 고객센터 게시판 개발 및 리뷰 보여주기 페이지 개발.
 - 📅 **Status**: 완료
-- 📅 **Link**: <a href='http://teamproject-uka.s3-website.ap-northeast-2.amazonaws.com/'>TeamProject-UKA</a>
 
 </td>
 <td width="50%">
