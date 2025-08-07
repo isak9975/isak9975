@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%92%BB+Passionate+Coder;%E2%9C%A8+Problem+Solver)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%F0%9F%9A%80+Full+Stack+Developer;%E2%9C%A8+Problem+Solver)
   
   
 </div>
@@ -43,7 +43,7 @@
 <td width="50%">
 
 ### 💻 개인 프로젝트
-![Personal Project](https://via.placeholder.com/400x200/58A6FF/FFFFFF?text=Personal+Project)
+<img src="./public/homeproject.jpg" alt="개인프로젝트" height="400"/>
 
 **개인적인 학습과 실험을 위한 프로젝트**
 - 🛠️ **Tech Stack**: React, Spring Boot, MySQL
@@ -54,9 +54,10 @@
 <td width="50%">
 
 ### 👥 팀 프로젝트
-![Team Project](https://via.placeholder.com/400x200/61DAFB/000000?text=Team+Project+1)
+<img src="./public/teamproject-uka.jpg" alt="팀프로젝트" height="400"/>
 
-**팀원들과 협업하여 진행한 웹 애플리케이션**
+
+**팀원들과 처음 작업한 웹 페이지**
 - 🛠️ **Tech Stack**: React, Node.js, MySQL
 - 👨‍💻 **My Role**: Frontend 개발 및 UI/UX 디자인
 - 📅 **Status**: 완료
@@ -67,9 +68,9 @@
 <td width="50%">
 
 ### 🎯 팀 프로젝트2
-![Team Project 2](https://via.placeholder.com/400x200/6DB33F/FFFFFF?text=Team+Project+2)
+<img src="./public/teamproject-omr.jpg" alt="팀프로젝트2" width="200" height="300"/>
 
-**두 번째 팀 협업 프로젝트**
+**팀원들과 협업하여 진행한 어플리케이션**
 - 🛠️ **Tech Stack**: React Native, Spring Boot
 - 👨‍💻 **My Role**: 모바일 앱 개발 및 백엔드 API 연동
 - 📅 **Status**: 진행 중
@@ -78,7 +79,7 @@
 <td width="50%">
 
 ### 📄 깃허브 페이지 만들기
-![GitHub Pages](https://via.placeholder.com/400x200/E34F26/FFFFFF?text=GitHub+Pages)
+<img src="./public/github.jpg" alt="깃 페이지"  height="400"/>
 
 **GitHub Pages를 활용한 포트폴리오 웹사이트**
 - 🛠️ **Tech Stack**: HTML5, CSS3, JavaScript
