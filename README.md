@@ -1,10 +1,9 @@
-# 👋 안녕하세요, 저는 개발자입니다!
+# 안녕하세요, 저는 풀스택 개발자입니다!
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%92%BB+Passionate+Coder;%E2%9C%A8+Problem+Solver)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%92%BB+Passionate+Coder;%E2%9C%A8+Problem+Solver)
   
-  <img src="https://komarev.com/ghpvc/?username=isak9975&style=for-the-badge&color=58A6FF" alt="Profile Views" />
   
 </div>
 
@@ -13,7 +12,7 @@
 ## 🌟 About Me
 
 안녕하세요! 웹 개발과 모바일 앱 개발에 관심이 많은 개발자입니다. 🚀  
-주로 **React**, **Spring Boot**, **React Native**를 사용해서 프로젝트를 진행하고 있고,  
+주로 **React**,**Java**, **Spring Boot**, **AWS**를 사용해서 프로젝트를 진행하고 있고,  
 사용자 경험을 고려한 직관적인 서비스를 만들기 위해 노력하고 있습니다.  
 
 새로운 기술을 배우는 것을 좋아하며, 코드 한 줄 한 줄에 의미를 담으려 합니다. ✨
@@ -25,10 +24,10 @@
 
 <div align="center">
   
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isak9975@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isak9975/isak9975)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)]((https://isak9975.github.io/))
-  [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@your_id)
+  [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@isak9975)
 
   
 </div>
