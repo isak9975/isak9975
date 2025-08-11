@@ -49,7 +49,8 @@
 - 🛠️ **Tech Stack**: React, Spring Boot, MySQL, AWS-RDS, AWS-EC2, AWS-S3
 - ⚡ **Features**: 사용자 인증, CRUD 기능, REST API
 - 📅 **Status**: 완료
-- 📅 **Link**: <a href='http://homeproject-back.s3-website.ap-northeast-2.amazonaws.com/'>HomeProject</a>
+- 🖥 **Code**: <a href='https://github.com/isak9975/HomeProject'>HomeProject_Code</a>
+- 🔗 **Link**: <a href='http://homeproject-back.s3-website.ap-northeast-2.amazonaws.com/'>HomeProject_Link</a>
 
 </td>
 <td width="50%">
@@ -62,7 +63,8 @@
 - 🛠️ **Tech Stack**: React, Spring Boot, MySQL, AWS-RDS, AWS-EC2, AWS-S3 
 - 👨‍💻 **My Role**: 동물 상세페이지, 찾고있어요 페이지 개발 및 프로젝트 배포
 - 📅 **Status**: 완료
-- 📅 **Link**: <a href='http://teamproject-uka.s3-website.ap-northeast-2.amazonaws.com/'>TeamProject-UKA</a>
+- 🖥 **Code**: <a href='https://github.com/hms1218/TeamProject-UKA/tree/develop'>TeamProject-UKA_Code</a>
+- 🔗 **Link**: <a href='http://teamproject-uka.s3-website.ap-northeast-2.amazonaws.com/'>TeamProject-UKA_Link</a>
 
 </td>
 </tr>
@@ -77,7 +79,8 @@
 **팀원들과 협업하여 진행한 어플리케이션**
 - 🛠️ **Tech Stack**: React Native, Spring Boot, MySQL, AWS-RDS, AWS-EC2
 - 👨‍💻 **My Role**: 고객센터 게시판 개발 및 리뷰 보여주기 페이지 개발.
-- 📅 **Status**: 완료
+- 🖥 **Code**: <a href='https://github.com/guensoo/TeamProject-OMR/tree/Develop'>TeamProject-OMR_Code</a>
+- 🔗 **Status**: 완료
 
 </td>
 <td width="50%">
@@ -89,7 +92,8 @@
 - 🛠️ **Tech Stack**: Vite, TypeScript, Github Page
 - ⚡ **Features**: 개인 포트폴리오 및 프로젝트 소개
 - 📅 **Status**: 완료
-- - 📅 **Link**: <a href='https://isak9975.github.io/'>isak9975.github.io</a>
+- 🖥 **Code**: <a href='https://github.com/isak9975/isak9975.github.io'>isak9975.github.io_Code</a>
+- 🔗� **Link**: <a href='https://isak9975.github.io/'>isak9975.github.io</a>
 
 </td>
 </tr>
