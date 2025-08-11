@@ -42,8 +42,8 @@
 <tr>
 <td width="50%">
 
-### 💻 개인 프로젝트
-<img src="./public/homeproject.jpg" alt="개인프로젝트" height="400"/>
+### 💻 개인 프로젝트<br/><br/>
+<img src="./public/homeproject.jpg" alt="개인프로젝트" height="400"/><br/><br/>
 
 **개인적인 학습과 실험을 위한 프로젝트**
 - 🛠️ **Tech Stack**: React, Spring Boot, MySQL, AWS-RDS, AWS-EC2, AWS-S3
@@ -70,7 +70,9 @@
 <td width="50%">
 
 ### 🎯 팀 프로젝트2
+<p align="center">
 <img src="./public/teamproject-omr.jpg" alt="팀프로젝트2" width="200" height="300"/>
+</p>
 
 **팀원들과 협업하여 진행한 어플리케이션**
 - 🛠️ **Tech Stack**: React Native, Spring Boot, MySQL, AWS-RDS, AWS-EC2
@@ -80,8 +82,8 @@
 </td>
 <td width="50%">
 
-### 📄 깃허브 페이지 만들기
-<img src="./public/github.jpg" alt="깃 페이지"  height="400"/>
+### 📄 깃허브 페이지 만들기<br/><br/><br/>
+<img src="./public/github.jpg" alt="깃 페이지"  height="400"/><br/><br/><br/>
 
 **GitHub Pages를 활용한 포트폴리오 웹사이트**
 - 🛠️ **Tech Stack**: Vite, TypeScript, Github Page
