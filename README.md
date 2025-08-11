@@ -41,7 +41,54 @@
 <table>
 <tr>
 <td width="50%">
+  
+### 👥 팀 프로젝트3
+  <img src="./public/linking.jpg" alt="팀프로젝트3" height="400"/>
+  
+  **진행중**
+  - 🛠️ **Tech Stack**: 진행중
+  - 👨‍💻 **My Role**: 진행중
+  - 📅 **Status**: 진행중
+  - 🖥 **Code**: 진행중
+  - 🔗 **Link**: 진행중
 
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+  
+### 🎯 팀 프로젝트2
+<p align="center">
+  <img src="./public/teamproject-omr.jpg" alt="팀프로젝트2" width="200" height="300"/>  
+</p>
+
+**팀원들과 협업하여 진행한 어플리케이션**
+- 🛠️ **Tech Stack**: React Native, Spring Boot, MySQL, AWS-RDS, AWS-EC2
+- 👨‍💻 **My Role**: 고객센터 게시판 개발 및 리뷰 보여주기 페이지 개발.
+- 🖥 **Code**: <a href='https://github.com/guensoo/TeamProject-OMR/tree/main'>TeamProject-OMR_Code</a>
+- 🔗 **Status**: 완료
+
+</td>
+<td width="50%">
+  
+
+### 👥 팀 프로젝트
+  <img src="./public/teamproject-uka.jpg" alt="팀프로젝트" height="400"/>
+  
+  
+  **팀원들과 처음 작업한 웹 페이지**
+  - 🛠️ **Tech Stack**: React, Spring Boot, MySQL, AWS-RDS, AWS-EC2, AWS-S3 
+  - 👨‍💻 **My Role**: 동물 상세페이지, 찾고있어요 페이지 개발 및 프로젝트 배포
+  - 📅 **Status**: 완료
+  - 🖥 **Code**: <a href='https://github.com/hms1218/TeamProject-UKA/tree/develop'>TeamProject-UKA_Code</a>
+  - 🔗 **Link**: <a href='http://teamproject-uka.s3-website.ap-northeast-2.amazonaws.com/'>TeamProject-UKA_Link</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+  
 ### 💻 개인 프로젝트<br/><br/>
 <img src="./public/homeproject.jpg" alt="개인프로젝트" height="400"/><br/><br/>
 
@@ -52,50 +99,22 @@
 - 🖥 **Code**: <a href='https://github.com/isak9975/HomeProject'>HomeProject_Code</a>
 - 🔗 **Link**: <a href='http://homeproject-back.s3-website.ap-northeast-2.amazonaws.com/'>HomeProject_Link</a>
 
-</td>
-<td width="50%">
 
-### 👥 팀 프로젝트
-<img src="./public/teamproject-uka.jpg" alt="팀프로젝트" height="400"/>
-
-
-**팀원들과 처음 작업한 웹 페이지**
-- 🛠️ **Tech Stack**: React, Spring Boot, MySQL, AWS-RDS, AWS-EC2, AWS-S3 
-- 👨‍💻 **My Role**: 동물 상세페이지, 찾고있어요 페이지 개발 및 프로젝트 배포
-- 📅 **Status**: 완료
-- 🖥 **Code**: <a href='https://github.com/hms1218/TeamProject-UKA/tree/develop'>TeamProject-UKA_Code</a>
-- 🔗 **Link**: <a href='http://teamproject-uka.s3-website.ap-northeast-2.amazonaws.com/'>TeamProject-UKA_Link</a>
 
 </td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎯 팀 프로젝트2
-<p align="center">
-<img src="./public/teamproject-omr.jpg" alt="팀프로젝트2" width="200" height="300"/>
-</p>
-
-**팀원들과 협업하여 진행한 어플리케이션**
-- 🛠️ **Tech Stack**: React Native, Spring Boot, MySQL, AWS-RDS, AWS-EC2
-- 👨‍💻 **My Role**: 고객센터 게시판 개발 및 리뷰 보여주기 페이지 개발.
-- 🖥 **Code**: <a href='https://github.com/guensoo/TeamProject-OMR/tree/Develop'>TeamProject-OMR_Code</a>
-- 🔗 **Status**: 완료
-
-</td>
-<td width="50%">
-
-### 📄 깃허브 페이지 만들기<br/><br/><br/>
-<img src="./public/github.jpg" alt="깃 페이지"  height="400"/><br/><br/><br/>
-
-**GitHub Pages를 활용한 포트폴리오 웹사이트**
-- 🛠️ **Tech Stack**: Vite, TypeScript, Github Page
-- ⚡ **Features**: 개인 포트폴리오 및 프로젝트 소개
-- 📅 **Status**: 완료
-- 🖥 **Code**: <a href='https://github.com/isak9975/isak9975.github.io'>isak9975.github.io_Code</a>
-- 🔗� **Link**: <a href='https://isak9975.github.io/'>isak9975.github.io</a>
-
-</td>
+  <td width="50%">
+  
+  ### 📄 깃허브 페이지 만들기<br/><br/><br/>
+  <img src="./public/github.jpg" alt="깃 페이지"  height="400"/><br/><br/><br/>
+  
+  **GitHub Pages를 활용한 포트폴리오 웹사이트**
+  - 🛠️ **Tech Stack**: Vite, TypeScript, Github Page
+  - ⚡ **Features**: 개인 포트폴리오 및 프로젝트 소개
+  - 📅 **Status**: 완료
+  - 🖥 **Code**: <a href='https://github.com/isak9975/isak9975.github.io'>isak9975.github.io_Code</a>
+  - 🔗� **Link**: <a href='https://isak9975.github.io/'>isak9975.github.io</a>
+  
+  </td>
 </tr>
 </table>
 
