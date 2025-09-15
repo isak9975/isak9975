@@ -97,7 +97,6 @@
 - ⚡ **Features**: 사용자 인증, CRUD 기능, REST API
 - 📅 **Status**: 완료
 - 🖥 **Code**: <a href='https://github.com/isak9975/HomeProject'>HomeProject_Code</a>
-- 🔗 **Link**: <a href='http://homeproject-back.s3-website.ap-northeast-2.amazonaws.com/'>HomeProject_Link</a>
 
 
 
